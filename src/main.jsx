@@ -7,7 +7,7 @@ import Home from './components/Home/Home.jsx';
 import ErrorPage from './components/ErrorPage/ErrorPage.jsx';
 import JobDetails from './components/JobDetails/JobDetails.jsx';
 import AppliedJob from './components/AppliedJob/AppliedJob.jsx';
-import ChartPage from './components/ChartPage/ChartPage.jsx';
+import ChartPage from './components/JobFeaturePage/JobFeaturePage.jsx';
 
 const router = createBrowserRouter([
   {
