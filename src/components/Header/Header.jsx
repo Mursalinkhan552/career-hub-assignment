@@ -2,8 +2,8 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 const Header = () => {
     return (
-        <div className='bg-blue-100 bg-opacity-45 py-6'>
-            <div className=' flex flex-col justify-between gap-10 items-center  sm:w-full max-w-screen-lg mx-auto '>
+        <div className='bg-blue-100 bg-opacity-45 py-6 '>
+            <div className=' flex flex-col justify-between gap-10 items-center  sm:w-full max-w-screen-lg mx-auto'>
                 <div className="navbar ">
                     <div className="navbar-start">
                         <div className="dropdown">

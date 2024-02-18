@@ -26,6 +26,7 @@ const JobFeatures = () => {
             </div>
             <div>
                 <button className='primary-btn'>See All Jobs</button>
+                
             </div>
         </section>
     );
